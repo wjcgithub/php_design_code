@@ -1,6 +1,4 @@
 <?php
-//    include_once './vendor/autoload.php';
-
     include_once './IWeapons.php';
     include_once './IWeaponsFactory.php';
     include_once './AiguoWeapons.php';

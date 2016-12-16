@@ -1,0 +1,19 @@
+{
+    "name": "evolution/php_design_patterns",
+    "description": "this is a php design pattern code base php5",
+    "authors": [
+        {
+            "name": "wjcgithub",
+            "email": "wjc163@sina.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Evolution\\pdp": "src/"
+        }
+    }   
+}

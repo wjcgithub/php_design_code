@@ -1,4 +1,5 @@
 <?php
+namespace Evolution\pdp\Singleton;
 
     /**
      * Created by PhpStorm.

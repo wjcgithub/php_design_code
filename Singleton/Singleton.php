@@ -26,10 +26,10 @@ namespace Evolution\pdp\Singleton;
 
         public static function getInstance()
         {
-            if (empty(self::$instance)) {
-                self::$instance = new Singleton();
+            if (empty(static::$instance)) {
+                static::$instance = new static();
             }
 
-            return self::$instance;
+            return static::$instance;
         }
     }

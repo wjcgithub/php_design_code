@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Evolution\\pdp\\": "../src/"
+            "Evolution\\pdp\\": ""
         }
     }   
 }

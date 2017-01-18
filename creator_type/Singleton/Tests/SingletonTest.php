@@ -1,7 +1,7 @@
 <?php
 namespace Evolution\pdp\Singleton\Tests;
 
-use Evolution\pdp\Singleton\Singleton;
+use Evolution\pdp\creator_type\Singleton\Singleton;
 
 class SingletonTest extends \PHPUnit_Framework_TestCase
 {

@@ -3,9 +3,8 @@
     <testsuites>
         <testsuite name="Design Patterns">
             <directory suffix="Test.php">creator_type/Singleton/Tests</directory>
-            <directory suffix="Test.php">struct_type/Facade/Tests</directory>
+            <directory suffix="Test.php">struct_type/*/Tests</directory>
             <directory suffix="Test.php">Creational/*/Tests</directory>
-            <directory suffix="Test.php">More/*/Tests</directory>
             <directory suffix="Test.php">Structural/*/Tests</directory>
         </testsuite>
     </testsuites>

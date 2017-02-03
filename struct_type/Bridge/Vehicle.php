@@ -23,8 +23,5 @@ abstract class Vehicle
     /**
      * 车辆制造
      */
-    public function manufacture()
-    {
-
-    }
+    abstract public function manufacture();
 }
